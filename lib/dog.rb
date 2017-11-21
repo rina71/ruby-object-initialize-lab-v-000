@@ -7,3 +7,5 @@ class Dog
     if !dog_breed
       dog_breed = "Mutt"
   end
+end
+end
